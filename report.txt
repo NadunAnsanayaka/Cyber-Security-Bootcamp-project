@@ -1,0 +1,8 @@
+------------------------------------------------------------------------------
+Weather Stats for - PUSSELLAWA  || 23 06 2021 | 02:47:37 PM
+------------------------------------------------------------------------------
+Current temperature is : 26.80 deg C 
+Current weather desc   : scattered clouds
+Current Humidity       : 57 %
+Current wind speed     : 3.7 kmph
+Current wind direction : 252 degrees
